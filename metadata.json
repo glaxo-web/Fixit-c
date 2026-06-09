@@ -1,0 +1,8 @@
+{
+  "name": "FixIt App",
+  "description": "A modern mobile-first home services marketplace app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
